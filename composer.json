@@ -1,0 +1,8 @@
+{
+    "name":"dev/apilol",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
